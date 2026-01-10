@@ -1,5 +1,5 @@
 
-const apiKey = "AIzaSyDn65N553L60wt8gFsdwvNTUz7FS4SSxL8";
+const apiKey = "";
 
 const chatBox = document.getElementById("chat-box");
 const userInput = document.getElementById("user-input");
