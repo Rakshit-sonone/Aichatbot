@@ -1,4 +1,4 @@
-// 🔑 Direct API Key (config.js ki zarurat nahi)
+
 const apiKey = "AIzaSyDn65N553L60wt8gFsdwvNTUz7FS4SSxL8";
 
 const chatBox = document.getElementById("chat-box");
